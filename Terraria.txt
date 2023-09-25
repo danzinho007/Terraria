@@ -5,13 +5,13 @@ Greater Healing Potion 1.1
 NPC's :
 
 Demolicionista  Release
-Dríade          Release
+Drï¿½ade          Release
 Enfermeira      Release
 FabricanteRoupa 1.0.4
 Feiticeiro      1.1
 Goblin Tinkerer 1.1
 Guia            Release
-Mecânica        1.1
+Mecï¿½nica        1.1
 Mercador        Release
 Papai Noel      1.1.1
 Velhote         Release
@@ -29,7 +29,7 @@ Rei Slime       1.0.4
 Criaturas :
 
 Coelho        1.0.4
-Pássaro       1.1
+Pï¿½ssaro       1.1
 Peixe Dourado 1.04
 
 Pets :
@@ -71,4 +71,210 @@ Steampunker1.2
 Taverneiro 1.3.4
 Tinteiro   1.2
 ViajantMrcd1.2.3
-Zoóloga    1.4.0.1
+Zoï¿½loga    1.4.0.1
+
+Itens :
+
+Greater Healing Potion 1.1
+
+NPC's :
+
+Demolicionista  Release
+Drï¿½ade          Release
+Enfermeira      Release
+FabricanteRoupa 1.0.4
+Feiticeiro      1.1
+Goblin Tinkerer 1.1
+Guia            Release
+Mecï¿½nica        1.1
+Mercador        Release
+Papai Noel      1.1.1
+Velhote         Release
+Vendedor Armas  Release
+
+Bosses :
+
+Destroier       1.1
+DevoradorMundos Rel
+Esqueleto Prime 1.1
+Olho de Tchulu  1.1
+Parede de Carne 1.1
+Rei Slime       1.0.4
+
+Criaturas :
+
+Coelho        1.0.4
+Pï¿½ssaro       1.1
+Peixe Dourado 1.04
+
+Pets :
+
+Coelho      1.1.2
+Fada        1.1
+Orbe da Luz 1.1
+
+Outros :
+
+Blood Moon   Release
+Corruption   Release
+Critical Hit 1.0.6
+Frost Legion 1.1.1
+Goblin Army  1.0.6
+Hallow       1.1
+Hard Mode    1.1
+Mechanism    1.1
+Modifiers    1.1
+Santa Claus  1.1.1
+Sawmill      1.0.6.1
+Wings        1.1 ( Angel e Demon )
+
+NPC's :
+
+Ciborgue   1.2
+Cogumelo   1.2
+ColetorTaxa1.3.0.1
+EsqueletoMrcd1.3.0.1
+Estilista  1.2.3
+Feiticeiro 1.2
+Festeira   1.2
+Golfe      1.4.0.1
+Pescador   1.2.4
+Pintor     1.2
+Pirata     1.2
+Princesa   1.4.1
+Steampunker1.2
+Taverneiro 1.3.4
+Tinteiro   1.2
+ViajantMrcd1.2.3
+Zoï¿½loga    1.4.0.1
+
+-Ambiente
+Dia comeï¿½a as 4:00
+Noite comeï¿½a as 19:000
+
+-Acessï¿½rios
+
+Balï¿½o Vermelho Brilhante = Caixa Pescando
+-Banda de Poder Estelar ( Band of Starpower ) = +20 Mana
+Orbe Sombio na Corrï¿½ï¿½o
+-Banda de Regeneraï¿½ï¿½o  = 0,5 saï¿½de a cada segundo
+Baï¿½s de Ouro no Subterrï¿½neo 
+-Bota de Foguete =  Comprada no Goblin
+-Botas Hermes = Baï¿½ Subterrï¿½neo
+-Canivete Respiratï¿½rio =
+Baï¿½ de ï¿½gua
+-Escudo de Cobalt = Imunidade cotnra Knockback
+Baï¿½ de ouro na Masmorra
+-Medidor de Profundidade ( Depth Meter ) = Profundidade
+10 Barras de Cobre , 8 de Prata e 6 de Ouro
+-Nuvem em uma garrafa = Salto Extra
+Baï¿½ de Ouro no Subterrï¿½neo ou Caverna
+-Tornozeleira do Vento = 10% Velocidade Movimento
+
+-Armaduras
+Cobre = Bï¿½nus +2 Defesa 
+Cobalto 
+
+-Armas
+Aqua Scepter = Baï¿½ de Ouro nas Cavernas
+Bola O'Hurt = Destruir Orbe Sombrio
+Lï¿½mina de Grama ( Blade of Grass ) = !!!
+
+-Bichos
+
+-Bloco
+Argila ( Clay )
+Cinza ( Ash )
+Sujeira ( Dirt )
+
+-Bumerangue
+Bumerangue Encantado = Atq 13
+Thorn Chakram = Atq 25
+Flamarang = Atq 32
+
+-Cadeiras
+Madeira = OK
+
+-Cama
+Cama 
+
+Chefes
+
+-Estï¿½tuas :
+Anjo
+
+Eventos
+
+-Fundo :
+Caverna
+Subterrï¿½neo
+
+Itens
+
+-Jï¿½ias :
+Ametista
+Diamante
+
+Madeiras
+
+Mesa
+
+-Moedas
+Cobre 
+Prata
+Ouro
+Platina
+
+Monstro
+
+*NPC's*
+-Demolicionista = Jï¿½ chegou
+Ter explosivo no inventï¿½rio + Comerciante
+-Drï¿½ade = FALTA
+Ter matado algum boss
+Vendedor de Armas = FALTA
+
+-Plantaï¿½ï¿½o
+Bolota 
+Sementes Corrompidas ( Corrupt Seeds ) = Olho de Cthulhu
+
+-Porta
+Madeira
+
+-Trabalho
+Bigorna
+Forno
+Garrafa na mesa
+Serraria = 1.0.6.1
+
+Vaidade
+
+*Outros* :
+
+Agro
+Altar
+Balde
+-Baï¿½ = Guardar itens 
+10 Madeira + 2 Quaisquer Barras
+-Corrente ( Chain )
+Barra de Ferro = 10 Correntes
+-Dinamite
+-Gancho = Fazer !!!
+3 Correntes + Gancho
+-Garrafa
+-Lanterna de Coraï¿½ï¿½o = 1.2.1.2
+-Livro = Masmorra
+-Lustre ( Chandeliers ) = Iluminaï¿½ï¿½o
+-Osso = Masmorra
+-Panela de Barro = Flor
+5 Blocos de Argila no Forno
+-Relï¿½gio de Cobre = Mostra as horas
+10 Barras de Cobre + Corrente
+-Teia de Aranha = Faz seda
+ï¿½reas subterrï¿½neas
+-Velas ( Candles ) = Iluminaï¿½ï¿½o
+Barra de Ouro + Tocha
+-Vela Platina = Iluminaï¿½ï¿½o
+Barra de Platina + Tocha
+-Vela de ï¿½gua =  Iluminaï¿½ï¿½o na ï¿½gua
+Vela + Vela de Platina

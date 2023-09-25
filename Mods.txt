@@ -1,0 +1,74 @@
+﻿Mods :
+
+1-Alchemist NPC : OK
+9 NPCs
+
+7-Angler Quest :
+Diz a missão de Pesca do dia
+
+13-Banner Checklist :
+Verificar bandeiras
+
+2-Block Swap : OK
+Permite trocar blocos sem quebrar eles
+
+8-Boss Checklist :
+Tudo sobre os bosses
+Ativar modo progressão
+
+-Boss Cursor :
+
+4-Census Town : OK
+Verificar NPCs do jogo
+
+5-CorruCrim NPCs : OK
+2 vendedores
+
+10-FK Boss Health :
+Barra de vida do Boss
+
+-In-game Translate :
+Traduz os textos de forma literal
+
+-Magic Storage :
+Guardar itens
+
+6-More Acessories : OK
+Acessório Adicional
+
+14-More Money :
+Dropar mais dinheiro
+
+-Ore Exavator :
+
+-Quality of Life :
+Criar itens sem precisar estar perto
+Guardar dinheiro no porquinho automático
+
+-Rain Overhaul :
+Textura
+
+-Recipe Browser :
+Pesquisar itens pra craftar 
+
+9-Shorter Respawn :
+Diminui o tempo de renascimento
+
+3-Smart Doors : OK
+Porta abre sozinho
+
+15-Stop Dying :
+NPC's Não podem morrer
+
+-Weapon Classes Overhaul :
+Novas armas pras Classes
+As armas upam
+
+11-Weapon Out :
+Amostra o item que ta usando
+
+12-Wing Slot :
+Um slot só pra asa
+
+-Wikithis :
+Abre a wiki dentro da Steam 
