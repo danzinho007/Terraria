@@ -1,0 +1,9 @@
+Modos :
+
+Personagem :
+Jornada = Modo Criativo
+Clássico = Modo Fácil
+Mediucore = Modo item
+Hardcore = Modo maluco
+
+

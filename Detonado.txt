@@ -1,0 +1,15 @@
+Detonado :
+
+1-Colete 300 madeiras
+2-
+
+Minérios :
+Cobre / Estanho
+Ferro / Chumbo
+Prata / Tungstênio
+Ouro / Platina
+
+Npc :
+Comerciante
+Demolidor
+Enfermeira
