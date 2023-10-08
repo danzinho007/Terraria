@@ -6,8 +6,14 @@
 7-Angler Quest :
 Diz a missão de Pesca do dia
 
+-AutoReforge (Acelera o tempo de reforjar até chegar na modificação desejada
+
 13-Banner Checklist :
 Verificar bandeiras
+
+-Begone, Evil! = Impede a corrupção de se espalhar
+
+-Better Classes = Mais itens pras classes
 
 2-Block Swap : OK
 Permite trocar blocos sem quebrar eles
@@ -16,7 +22,7 @@ Permite trocar blocos sem quebrar eles
 Tudo sobre os bosses
 Ativar modo progressão
 
--Boss Cursor :
+-Boss Cursor : Mostra uma seta marcando onde o boss está
 
 4-Census Town : OK
 Verificar NPCs do jogo
@@ -24,14 +30,19 @@ Verificar NPCs do jogo
 5-CorruCrim NPCs : OK
 2 vendedores
 
+-Fargo Mutant = Também adiciona NPCS que vendem poções e itens de spawn de boss/eventos
+
 10-FK Boss Health :
 Barra de vida do Boss
 
 -In-game Translate :
 Traduz os textos de forma literal
 
--Magic Storage :
-Guardar itens
+-LuiAFK = Adiciona várias coisas automáticas, como casas, arenas, e poções infinitas
+
+-Magic Storage : Guardar itens
+
+-MaxStackPlusExtra = Aumenta o stack máximo
 
 6-More Acessories : OK
 Acessório Adicional
@@ -39,7 +50,7 @@ Acessório Adicional
 14-More Money :
 Dropar mais dinheiro
 
--Ore Exavator :
+-Ore Exavator : Minera todos os minérios juntos de uma vez ao bater com a picareta
 
 -Quality of Life :
 Criar itens sem precisar estar perto
@@ -48,11 +59,11 @@ Guardar dinheiro no porquinho automático
 -Rain Overhaul :
 Textura
 
--Recipe Browser :
-Pesquisar itens pra craftar 
+-Recipe Browser = Pesquisar itens pra craftar 
 
-9-Shorter Respawn :
-Diminui o tempo de renascimento
+-Ruin = Craftar Fruta da vida
+
+9-Shorter Respawn : Diminui o tempo de renascimento
 
 3-Smart Doors : OK
 Porta abre sozinho
@@ -66,6 +77,8 @@ As armas upam
 
 11-Weapon Out :
 Amostra o item que ta usando
+
+-Which mod is this from? = Mostra de qual mod cada item é
 
 12-Wing Slot :
 Um slot só pra asa
