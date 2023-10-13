@@ -1,0 +1,89 @@
+Versões do Terraria :
+
+-1.0.1 
+Removido Zapinator ( somente no 3Ds ) = Estátua de Anjo no lugar, motivo é que era muito forte ou devido a problema de direitos autorais com a Nintendo ( lembra NES Zapper )
+Areia encima do baú não cai devido a gravidade = ?
+Teia de Aranha evita dano de queda = ?
+Tocha em plataforma de madeira = ?
+
+-1.0.2
+Bombas Gelatinosas ( 5 Gel + 1 Bomba )
+Hellstone e Obsidian exigem de Picareta de Pesadelo ( Nightmare Pickaxe )
+
+-1.0.3
+Armadura da Selva ( Jungle Armor ) ( Esporos + Videira + Ferrão )= ?
+Chapéu de Mago = ?
+Lente Preta ( Black Lens ) = ?
+Óculos de Sol ( Sunglasses ) = ?
+Inimigos :
+Mineiro Morto-Vivo ( Undead Miner )
+Tim 
+Alterações :
+Armadura Fundida ( Molten Armor )debuff
+
+-1.0.4
+Armadura Ninja ( Ninja Armor ) = ?
+Capuz de Coelho
+Chapéu de Verão ( Summer Hat ) = ?
+Chapéu Robô ( Robot Hat )
+Conjunto de Encanador ( Plumber Set ) = ? 
+Conjunto de Smoking ( Tuxedo Set ) = ?
+Conjunto de Herói = ?
+Conjunto de Roupa ( Clothier Set ) = ?
+Coroa de Ouro ( Barra de Ouro x30 Rubi na Bigorna )
+Couro ( Leather ) = ?
+Espaço ( Space ) = 
+Linha Preta 
+Linha Verde
+Peixe Dourado
+Robe  = ? 
+Tigela de Peixe ( Peixe + Água Engarrafada ) = ?
+Traje de Arqueólogo
+
+Amigos :
+Coelhinho ( Bunny ) = !!!
+Fabricante de Roupas ( Clothier ) = !!!
+Peixe Dourado ( Goldfish ) = !!!
+
+Inimigos :
+Coelho Corrupto ( Corrupt Bunny ) = !!!
+Doutor Ossos ( Doctor Bones ) = !!!
+Gosma da Selva ( Jungle Slime ) = !!!
+Harpia ( Harpy ) = !!!
+Ladrão ( Snatcher ) = !!!
+Morcego da Caverna ( Cave Bat ) = !!!
+Morcego da Selva ( Jungle Bat ) = !!!
+O Noivo ( The Groom )
+Peixe Dourado Corrompido ( Corrupt Goldfish ) = !!!
+Piranha = !!!
+Rei Gosma ( King Slime ) = !!!
+
+-1.0.5
+Aglete = Acessório
+
+-1.0.5
+Cerveja
+
+-1.0.6.1
+Panela
+Serraria ( Sawmill ) ( Madeira x10 Barra x2 Corrente x1 na Bancada de Trabalho )
+Tear ( Loom ) ( Madeira x12 na  Serraria )
+
+-1.1
+Pescador ( Angler Fish )
+Temporizador 1 segundo
+
+-1.1.1
+Bloco de Bastão de Doces
+
+-1.1.2
+Animal de estimação
+Cenoura
+
+-1.2
+Band-aid Adesivo ( Adhesibe Bandage )
+Canhão Nocauteado ( KO Cannon ) ] Arma 
+Pena de Harpia Gigante ( Giant Harpy Feather ) = Dropa de Harpia
+
+-1.3.01
+Modo Especialista ( Expert Mode )

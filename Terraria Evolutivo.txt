@@ -120,56 +120,63 @@ Parte
 12 = Cora��o
 13 = Cora��o dnv
 
-*Acess�rios* :
--Banda de Regenera��o de Mana = 1.2
--Manilha = J� dropei v�rios de zumbi
--Rel�gio de Cobre = Fiz
--Tornozeleira do Vento = N�o achei
+*Acessórios* :
+-Banda de Regeneração de Mana = 1.2 ( OK )
+-Caveira Obsidiana = 2 Def + Imunidade Bloco de Fogo ( OK )
+-Manilha = Ja dropei vários de zumbi ( OK )
+-Medidor de Profundidade =  ( OK )
+-Nuvem na Garrafa = ( OK )
+-Relógio de Cobre = Fiz ( OK )
+-Tornozeleira do Vento = Não achei
 
 Armaduras :
 Carmesim = 1.2 ( Def 19 )
 Cobalto ( Cobalt ) = N�o fiz
-Cobre = N�o fiz
-Ferro = N�o fiz
-Fundida ( Molten ) = N�o fiz ( Def 25 )
+Cobre = N�o fiz ( OK )
+Ferro = N�o fiz ( OK )
+Fundida ( Molten ) = N�o fiz ( Def 25 ) ( OK )
 Lata = 1.2
 Liderar =  1.2 ( Def 11 )
 Madeira = 1.2 ( Def 3 )
 Madeira de �bano = 1.2 ( Def 5 )
 Madeira de Palam = 1.2.4 ( Def 4 )
 Madeira de P�rola = 1.2 ( Def 8 )
-Meteoro = N�o fiz ( Def 16 )
-Necro = N�o fiz ( Def 19 )
-Ouro = N�o fiz ( Def 16 )
+Meteoro = N�o fiz ( Def 16 ) ( OK )
+Necro = N�o fiz ( Def 19 ) ( OK )
+Ouro = N�o fiz ( Def 16 ) ( OK )
 Platina = 1.2 ( Def 20 )
-Prata = N�o fiz ( Def 13 )
-Sombra = N�o fiz ( Def 19 )
+Prata = N�o fiz ( Def 13 ) ( OK )
+Sombra = N�o fiz ( Def 19 ) ( OK )
 Tungst�nio = 1.2 ( Def 15 )
 
 *Armas* :
 -Aqua Scepter = N�o achei
--Arco Dem�nio = N�o fiz
--Bola O'Hurt = N�o achei
-Cajado Gosma = 1.2
+-Arco Dem�nio = N�o fiz ( OK )
+-Bola O'Hurt = N�o achei ( OK )
+-Cajado Gosma = 1.2
+-Espada de Ouro =  ( OK )
 
 *Bichos* :
--Coelho = N�o peguei ainda
--Peixe Dourado = N�o peguei ainda
+-Coelho = N�o peguei ainda ( OK )
+-Peixe Dourado = N�o peguei ainda ( OK )
 
 *Bloco* :
 -Cinza ( Ash ) = N�o lembro
 
 Cadeiras :
-Madeira = J� fiz
+-Madeira = J� fiz ( OK )
 
 Chefes antes do Modo Dif�cil :
-C�rebro de Tchulu = 1.2
-Devorador de Mundos 
-Esqueletron
-Olho de Tchulu 
-Parede de Carne = 1.1
-Rainha Abelha = 1.2
-Rei Gosma = 1.0.4
+Cérebro de Tchulu = 1.2 ( OK )
+Devorador de Mundos  ( OK )
+Esqueletron ( OK )
+Olho de Tchulu = 3k / 3000 de vida ( OK )
+Parede de Carne = 1.1 ( OK )
+Rainha Abelha = 1.2 ( OK )
+Rei Gosma = 1.0.4 ( OK )
+
+Espada :
+Maldição da Luz = 16 Dano ( OK )
 
 Est�tua :
 Anjo = N�o achei
@@ -188,52 +195,61 @@ Legian Frost 1.1.1
 Loucura Marciana = 1.3.0.1
 Lua de Ab�bora = 1.2.1
 Lua Geada = 1.2.2
-Lua Negra = Ainda n�o teve
+Lua Negra = Ainda n�o teve ( OK )
 Lunar = 1.3.0.1
-Meteoro = Ainda n�o aconteceu
+Meteoro = Ainda n�o aconteceu ( OK )
 Natal = 1.1.1
 Tempestade de Areia = 1.3.3
 
 Itens :
-Bal�o Vermelho Brilhante = N�o achei
-Po��o de Cura Menor = N�o achei
+Bal�o Vermelho Brilhante = N�o achei ( OK )
+Po��o de Cura Menor = N�o achei ( OK )
+Tocha =  ( OK )
 
 J�ias :
 Ametista = N�o achei
 
 Madeiras :
-Madeira = Tenho
+Madeira = Tenho ( OK )
 
 Mesas :
-Madeira = J� fiz
+Madeira = J� fiz ( OK )
+
+Minérios :
+de Demonita = ( OK )
 
 Monstros :
 Antlion = 1.0.5
-Ex�rcito Goblin = n�o achei
-Gosma Beb�
-Ossos Zangados ( Angry Bones ) = achei , tem a imagem antiga
-Verme Gigante = achei
-Zumbi = achei
+Comedor de Homens = 200 de vida ( OK )
+Ex�rcito Goblin = n�o achei ( OK )
+Gosma Beb� ( OK )
+Ossos Zangados ( Angry Bones ) = achei , tem a imagem antiga ( OK )
+Verme Gigante = achei ( OK )
+Zumbi = achei ( OK )
 
 NPC's :
-Guia
-Mercador
+Driade = ( OK )
+Guia ( OK )
+Mercador ( OK )
 Mercador Esqueleto = 1.3.0.1 
-Vendedor de Armas = N�o veio
+Vendedor de Armas = N�o veio ( OK )
 
 Planta��o :
 Bolota = Dropa derrubando �rvore
 
+Plataforma :
+de Madeira =  ( OK )
+
 Trabalho :
-A m�o = Fazer itens na m�o
-Bigorna ( Anvil ) = J� fiz
+A m�o = Fazer itens na m�o ( OK )
+Bigorna ( Anvil ) = J� fiz ( OK )
 Estante de Livros = 1.0.6
 Fogueira = 1.2
-Forja do inferno = Ainda n�o
-Fornalha = J� fiz
-Garrafa na mesa = Ainda n�o fiz
+Forja do inferno = Ainda n�o ( OK )
+Fornalha = J� fiz ( OK )
+Garrafa na mesa = Ainda n�o fiz ( OK )
 Mesa de Alquimia = 1.3.0.1
-Mesa de Trabalho = J� fiz
+Mesa de Trabalho = J� fiz ( OK )
 Oficina de Funileiro = 1.1
 Serraria = 1.0.6.1
 Tear = 1.0.6

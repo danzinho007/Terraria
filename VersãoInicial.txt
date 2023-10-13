@@ -1,0 +1,74 @@
+Versão Inicial do Terraria
+
+A
+Altar 
+Arco ( Bow )
+Árvore ( Tree )
+
+B
+Báu ( Chest )
+Bumerangues ( Boomerangs )
+
+C
+Cadeira ( Chair )
+Cogumelo ( Mushroom )
+Cogumelo Vil ( Vile Mushroom )
+Comedor de Almas ( Eater of Souls ) = Inimigo
+
+D
+Dente de Minhoca ( Worm Tooth ) = Desktop
+Devorador de Mundos ( Eater of Worlds ) = Desktop
+
+E
+Espelho Mágico ( Magic Mirror)
+Estrela ( Star )
+
+F
+Flecha ( Arrows )
+Flecha de Fogo ( Flaming Arrows )
+Flecha Profana ( Unholy Arrow )
+Fúria Estelar ( Starfury )
+
+G
+Girassol ( Sunflower)
+Grama ( Grass )
+
+K
+
+L
+Lente ( Lenses )
+
+M
+Mãe Gosma ( Mother Slime ) = Desktop
+Mesa ( Table )
+Minhoca ( Worm ) = 1.2.3
+
+N
+Nuvem ( Cloud )
+
+O
+Óculos ( Googles )
+Olho de Cthulhu ( Eye of Cthulhu )
+Olho Demoniaco ( Demon Eye )
+-Olho Suspeito ( Lentes x6 no Altar Demoníaco / Carmesim ) = Invoca o Olho de Cthulhu
+1 = 1.0.5 Precisava de 10 Lentes
+2 = 1.1 Estocar de 1 pra 20
+
+P
+Pedaço Podre ( Rotten Chunk ) = Desktop
+Pedra ( Stone )
+Pó Vile = Desktop
+Purificação = Desktop
+
+S
+Sementes de Grama ( Grass Seeds )
+Shuriken
+
+T
+Terra ( Dirt )
+
+V
+Vilethorn = Arma
+
+Z
+Zumbi ( Zombies )
