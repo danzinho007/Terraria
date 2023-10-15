@@ -1,0 +1,128 @@
+Itens em Inglês :
+
+>>>> A
+
+-Altar :
+Desktop Introduzido Demoníaco 
+-Archery Potion = GarrafaÁgua + DayBloon + Lens na GarrafaEncimaDaMesa
+1.0.5 Introduzido
+1.2 AltarCarmesim
+>>>> B
+
+-Black Lens x2 na Bancada = Óculos de Sol
+-Blinkroot
+1.0.5 Introduzido
+-Bootle :
+Desktop Introduzido
+-Bootled Honey 
+1.2 Introduzido
+-Builder Potion :
+1.2.4 Introduzido
+
+>>>> C
+
+-Chain :
+Desktop Introduzido
+-Crates :
+1.2.4 Introduzido
+
+>>>> D
+
+-Daybloom :
+1.0.5 Introduzido
+-Deathweed :
+1.0.5 Introduzido
+
+>>>> F
+
+Fireblossom :
+1.0.5 Introduzido
+
+>>>> G
+
+-Garland
+1.4.3 Introduzido
+-Goldfish :
+1.0.4 Introduzido
+-Gravition Potion = GarrafaÁgua + Fireblossom + Deathweed + Blinkroot + Pena na GarrafaEncimaDaMesa
+1.0.5 Introduzido
+-Greater Healing Potion : Cura 150
+1.1 Introduzido 
+
+>>>> H
+
+-Heart :
+Desktop Introduzido
+-Hook + Chain x3 na BigornaFerro = Gancho
+
+J
+Jungle Spores x12 + Vine x3 = Gancho
+
+>>>> L
+
+-Lens x6 = Invocador do Olho
+Desktop Introduzido
+-Lesser Healing Potion = Cogumelo + Gel x2 + Garrafa x2 na GarrafaEncimaDaMesa
+Desktop Introduzido
+-Lesser Mana Potion =
+Desktop Introduzido
+-Life Crystal :
+Desktop Introduzido
+-Life Fruit  :
+1.2 Introduzido
+
+>>>> M
+
+-Mana Crystal :
+Desktop Introduzido
+-Mana Potion = 
+Desktop Introduzido
+-Moonglow
+-Mushroom + Goldfish no Caldeirão = BowOfSoup
+Desktop Introduzido
+
+>>>> R
+
+-Recall Potion = 
+1.2.4 Introduzido
+-Rotten Chunk
+-Rotten Egg :
+1.2.1 Introduzido
+
+>>>> S
+
+-Shark Fin
+-Silk :
+-Slime Crown : Invocador do ReiGosma
+1.1 Introduzido
+Gel x20 + Coroa de Ouro no AltarCarmesim / AltarDemoníaco
+-Snowball :
+1.2 Introduzido
+-Star :
+Desktop Introduzido
+-Stinger
+-Super Healing Potion : 
+1.3.0.1 Introduzido Cura 200
+
+T
+Tattered Cloth
+-Teleportation Potion :
+1.2.4 Introduzido
+
+V
+Vile Mushroom
+Vine
+-Vital Crystal :
+1.4.4 Introduzido
+
+>>>> W
+
+-Waterleaf
+-Wooden Crate :
+1.2.4 Introduzido
+-Worm Food : Invocador do DevoradorDeMundos
+Desktop Introduzido
+Vile Powder x30 + Rotten Chunk x15 no AltarDemoníaco = Worm Food
+-Worm Tooth
+-Wormhole Potion :
+1.3.0.1 Introduzido
