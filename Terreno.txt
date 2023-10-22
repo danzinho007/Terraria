@@ -1,0 +1,20 @@
+Sementes : Solo
+
+Abóbora = Grama / GramaSagrada
+Blinkroot = Lama / Sujeira
+Carmesim = Sujeira
+Corrompida = Sujeira
+ErvaDaMorte = GramaCarmesim / GramaCorrompida 
+Espinheiro( Shiverthorn ) = Neve
+Flor = Grama
+Flor de Fogo = Cinzas
+Flor do Dia ( Daybloom )= Grama / Grama Sagrada
+FolhaD'água ( Waterleaf ) = Areia
+Gemas = Pedra ( Subterrâneo )
+Grama = Sujeira
+Grama da Selva = Lama
+Grama de Cogumelo = Lama
+Grama de Feixo = Cinzas
+Luar ( Moonglow )= Grama da Selva
+Nozes = Areia / Grama / Neve
+Sagrada = Sujeira

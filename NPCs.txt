@@ -1,0 +1,47 @@
+NPC's do Terraria :
+https://terraria.fandom.com/wiki/NPCs
+
+-Demolicionista = Desktop
+Casa Livre + Explosivo + Mercador
+Gosta Bioma : Underground,Caverna ou Underword
+Gosta NPCs : Princesa e Mecânica
+
+-Dríade = Desktop
+Casa Livre + Boss Derrotado
+Gosta Bioma : Selva
+Gosta NPCs : Princesa, WitchDoctor ou Truffle
+
+-Enfermeira = Desktop
+Casa Livre + Vida > 100 + Mercador
+Gosta Bioma : Hallow
+Gosta NPCs: Princesa e Mago
+
+-FabricanteDeRoupas = 1.0.4
+Derrotar o Skeletron
+Gosta Bioma : Subterrâneo, Caverna ou Submundo
+Gosta NPCs : Princesa ou ColetorDeImpostos
+
+-GoblinTinkerer = 1.1
+
+-Guia = Desktop
+Início do jogo
+Gosta Bioma Floresta 
+Gosta dos Npcs : Princesa, FabricanteDeRoupas e Zoologista
+
+-Mago = 1.1
+Mecânica = 1.1
+
+-Mercador = Desktop
+Casa Livre + 50 Moedas de Prata
+Gosta Bioma : Floresta
+Gosta NPCs : Princesa, Golfista e Enfermeira
+
+-PapaiNoel = 1.1.1
+
+-Velho = Desktop
+NPC da Masmorra
+
+-VendedorDeArmas = Desktop
+Casa Livre + Arma/Bala de Fogo
+Gosta Bioma : Deserto
+Gosta NPCs : Princesa e Steampunker
