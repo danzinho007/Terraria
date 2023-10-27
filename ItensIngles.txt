@@ -11,10 +11,11 @@ Desktop Introduzido Demoníaco
 1.2 AltarCarmesim
 https://terraria.fandom.com/wiki/Altars
 
--Archery Potion = ?
-GarrafaÁgua + DayBloon + Lens na GarrafaEncimaDaMesa
+-Archery Potion / Poção de Arco = Concede buff, precisa ser fabricado
+GarrafaÁgua + DayBloon + Lens na GarrafaEncimaDaMesa = Poção de Arco
 1.0.5 Introduzido
-1.2 AltarCarmesim
+1.0.6 Aumentou Dano e Velocidade da Flecha de 15 para 20%
+https://terraria.fandom.com/wiki/Archery_Potion
 
 >>>> B
 
@@ -36,22 +37,44 @@ https://terraria.fandom.com/wiki/Blinkroot_Seeds
 Desktop Introduzido
 https://terraria.fandom.com/wiki/Bone
 
--Bootle = ???
+-Bootle / Garrafa = Usado para criar várias poções, precisa ser criado
+Vidro na Fornalha = Garrafa x2
 Desktop Introduzido
+https://terraria.fandom.com/wiki/Bottle
 
 -Bootled Honey = ?
 1.2 Introduzido
 https://terraria.fandom.com/wiki/Bottled_Honey
+
+-Bow of Soup / Tigela de Sopa = Alimento fabricado na panela, concede Buff Muito Satisfeito ( Melhoria em todas as estatísticas e aumento na regeneração de vida)
+Cogumelo + Peixe Dourado na Panela = Tigela de Sopa
+1.0.6 Introduzido
+1.3.0.1 Duração do Buff aumentou de 10 para 30 minutos
+https://terraria.fandom.com/wiki/Bowl_of_Soup
 
 -Builder Potion = ?
 1.2.4 Introduzido
 
 >>>> C
 
--Chain :
-Desktop Introduzido
--Corrupt Seeds = ?
+-Campfire / Fogueira = Fornece Luz e Buff de Regenação de saúde
+1.2 Introduzido
+https://terraria.fandom.com/wiki/Campfires
 
+-Chain / Corrente = Precisa ser criado, cria vários itens
+Qualquer Barra de Ferro na Bigorna de Ferro / Chumbo = Corrente x15 
+Desktop Introduzido
+https://terraria.fandom.com/wiki/Chain?so=search
+
+-Cooking Pots / Panela = Transformar vários itens em alimentos, precisa ser criada
+Qualquer barra de ferro x10 + Qualquer Madeira x2 na Bigorna de Ferro / Chumbo = Panela
+1.0.6 Introduzido com Tigela de Sopa 
+1.1 Pode fazer Unholy Water
+https://terraria.fandom.com/wiki/Cooking_Pots
+
+-Corrupt Seeds / Sements Corrompidas = Plantadas em Blocos De Sujeira para criar Grama Corrompida, espalham corrupção, podem ser usada para cultivar Vile Mushroom
+Desktop Introduzido
+https://terraria.fandom.com/wiki/Corrupt_Seeds?so=search
 
 -Clay Block / Bloco de Argila = Cria vários itens, achado na superfície ( acima de 0 elevação )
 Desktop Introduzido
@@ -62,30 +85,46 @@ Clay Block x6 na Fornalha = Clay Pot
 Desktop Introduzido
 https://terraria.fandom.com/wiki/Clay_Pot
 
--Crates :
+-Crates ? 
 1.2.4 Introduzido
 
--Crispy Honey Block = 
+-Crispy Honey Block = ?
 1.2 Introduzido
 https://terraria.fandom.com/wiki/Crispy_Honey_Block
 
 >>>> D
 
--Daybloom = ?
+-Daybloom = Cresce na Grama, pode ser plantada em Vaso de Barro, usado para criar vários itens
 1.0.5 Introduzido
+https://terraria.fandom.com/wiki/Daybloom
 
--Deathweed : ???
+-Deathweed / Erva da Morte = Cresce na Grama Corrompidada / Ebonstone / Crismtone durante a Lua de Sangue / Lua Cheia, usado para criar vários itens
 1.0.5 Introduzido
+https://terraria.fandom.com/wiki/Deathweed?so=search
+
+-Demon Eye / Olho Demoníaco = Inimigo 
+
+Desktop Introduzido
+1.0.3 Agora dropa Lente Preta
+1.2 Novas Variantes
+https://terraria.fandom.com/wiki/Demon_Eye
 
 >>>> F
 
--Fireblossom = ?
+-Fireblossom / Flor de Fogo = Erva que cresce em Bloco Cinza no Submundo, pode ser colocada em Vaso de Barro e é usada para criar várias poções,
 1.0.5 Introduzido
-
+1.0.6 Taxa de geração aumentada
+https://terraria.fandom.com/wiki/Fireblossom?so=search
 
 -Firefly / Vaga-Luma = ?
 1.2.3 Introduzido
 https://terraria.fandom.com/wiki/Firefly
+
+-Furnace / Fornalha = Usada para fundir Minérios em barras e outras coisas, precisa ser criada.
+Bloco de Pedra x20 + Madeira x4 + Tocha x3 na BancadaDeTrabalho = Fornalha
+Desktop Introduzido
+1.2 Sprite atualizado e agora precisa de 3 tochas para fabricar
+https://terraria.fandom.com/wiki/Furnace
 
 >>>> G
 
@@ -98,15 +137,20 @@ Desktop Introduzido
 1.1 Estoque de 99 para 250
 https://terraria.fandom.com/wiki/Gel
 
--Golden Key = ?
+-Golden Key / Chave de Ouro = Necessária para Desbloquear Baús de Ouro Trancados, podem ser adquiridas em baú normal, matar inimigos ou quebrar potes
+1.0.6 Introduzido
+1.1 Maior chance de obter em masmorras e potes
+https://terraria.fandom.com/wiki/Golden_Key?so=search
 
+-Goldfish / Peixe Dourado = Criaturas que nadam na água / terra durante a chuva, durante a Lua de Sangue são transformados em Peixes Corruptos, utilizados para criar vários itens
 
--Goldfish :
 1.0.4 Introduzido
 -Gravition Potion = GarrafaÁgua + Fireblossom + Deathweed + Blinkroot + Pena na GarrafaEncimaDaMesa
 1.0.5 Introduzido
 -Greater Healing Potion : Cura 150
 1.1 Introduzido 
+1.2 Caminham durante a chuva
+https://terraria.fandom.com/wiki/Goldfish?so=search
 
 >>>> H
 
@@ -114,8 +158,27 @@ https://terraria.fandom.com/wiki/Gel
 1.2 Introduzido
 https://terraria.fandom.com/wiki/Hallowed_Bar
 
--Heart :
+-Hammer / Martelo = Ferramente para quebrar paredes de fundo
+Desktop introduzida
+1.2 Produzem Meio-bloco e encostas
+https://terraria.fandom.com/wiki/Hammers
+
+-Healing Potion / Poção de Cura = Restaura 100 pontos de vida, precisa ser criada.
+Poção Menor de Cura x2 + Cogumelo Brilhante na GarrafaEncimaDaMesa = Poção de Cura
+
 Desktop Introduzido
+1.0.5 Sprite foi atualizado
+1.0.6 A cura foi reduzida de 200 para 100 e  ativando você ativa a Poção Doença ( Fica 30 segundos sem poder usar denovo ) 
+https://terraria.fandom.com/wiki/Healing_Potion?so=search
+
+-Heart / Coração = Restauram 20 pontos de vida
+Desktop Introduzido
+1.2.2 Maça Doce introduzida
+https://terraria.fandom.com/wiki/Heart
+
+-Heartreach Potion / Poção de Coração = ?
+1.2.4 Introduzido
+https://terraria.fandom.com/wiki/Heartreach_Potion
 
 -Herb Bag = ?
 1.3.0.1 Introduzido
@@ -129,23 +192,51 @@ https://terraria.fandom.com/wiki/Hive
 1.2 Introduzido
 https://terraria.fandom.com/wiki/Honey_Block
 
--Hook = ?
+-Hook = Material para fabricar Gancho, dropa de monstros da camada de Mármore, Gelo e Caverna ou Piranha na Selva, Selva Subterrânea, Caverna e Subterrâneo 
++ Chain x3 na Bigorna Chumbo/Ferro = Gancho
 
+Desktop Introduzido
+https://terraria.fandom.com/wiki/Hook?so=search
 
-+ Chain x3 na BigornaFerro = Gancho
+-Hunter Potion / Poção de Caçador = Mostra a localização de inimigos e NPCs
+ÁguaEngarrafa + FlorDoDia + Blinkroot + BarbatanaDeTubarão na GarrafaEncimaDaMesa = Poção do Caçador
+1.0.5 Introduzido
+https://terraria.fandom.com/wiki/Hunter_Potion
+
+>>>> I 
+
+-Item Frame / Quadro de itens = Precisa ser colocado numa parede de fundo, precisa ser criado
+Qualquer Madeira x6 na Serraria = Quadro de itens
+1.3.0.1 Introduzido
+https://terraria.fandom.com/wiki/Item_Frame
 
 >>>> J
-Jungle Spores x12 + Vine x3 = Gancho
+Jungle Spores / Esporos da Selva = Materiais adquiridos pela destruição de orbes verdes na Selva Subterrânea ou na Caverna, usado para criar itens
+x12 + Vine x3 = Gancho
+
+1.0.6 Introduzido
+1.3.0.1 Usado para criar a Amazon ( Yoyo dessa versão )
+https://terraria.fandom.com/wiki/Jungle_Spores?so=search
 
 >>>> L
 
--Lens = OK
+-Lens / Lente = Materia que dropa do Olho Demoníaco ou Olho errante ( Modo Difícil )
 x6 = Invocador do Olho
 Desktop Introduzido
--Lesser Healing Potion = Cogumelo + Gel x2 + Garrafa x2 na GarrafaEncimaDaMesa
+1.1 Usado para criar Olho Mecânico
+https://terraria.fandom.com/wiki/Lens?so=search
+
+-Lesser Healing Potion / Poção Menor de Cura = Item que cura 50 pontos de vida, dropa de bosses ou caixas ( pescando ), pode ser criado
+Cogumelo + Gel x2 + Garrafa x2 na GarrafaEncimaDaMesa = 2 poções
+
 Desktop Introduzido
--Lesser Mana Potion =
+1.0.4 Agora cai do Rei Gosma
+1.0.6 Consumo agora ativa o debuff Poção Doença por 1minuto e a saúde diminuiu de 100 para 50
+https://terraria.fandom.com/wiki/Lesser_Healing_Potion?so=search
+
+-Lesser Mana Potion = Parei aqui !!!!
 Desktop Introduzido
+
 -Life Crystal :
 Desktop Introduzido
 -Life Fruit  :
@@ -157,12 +248,31 @@ Desktop Introduzido
 Desktop Introduzido
 -Mana Potion = 
 Desktop Introduzido
+
+-Mechanical Eye / Olho Mecânico = Chefe do Modo Difícil
+1.1 Introduzido
+1.2 Receita alterada
+https://terraria.fandom.com/wiki/Mechanical_Eye
+
+-Minecart / Carrinho de Mina = Permite correr em trilhas do Minecart
+1.2.4 Introduzido
+https://terraria.fandom.com/wiki/Minecarts#Minecart
+
 -Moonglow = ?
 
 -Mushroom = ?
 Desktop Introduzido
-
 + Goldfish no Caldeirão = BowOfSoup
+
+>>>> N 
+
+NPC / Non-Player Character / Jogador não humano = Ajudantes da jogatina
+
+Desktop Introduzido com 7 : Guia, Enfermeira, Mercador, Vendedor de Armas, Demolicionista, Dryad e Homen Velho
+1.0.4 Adicionado 8° = Vendedor de Roupas
+1.1 Adicionados 9, 10 e 11° = Goblin Tinkerer, Mecânica e Mago 
+1.1.1 Adicionado o 12° = Santa Claus ( Evento Legião de Gelo 15/12 até 31/12 ) ou Completando o Evento Lua Gelada na 1.2.2
+https://terraria.fandom.com/wiki/NPCs#History
 
 >>>> O
 
@@ -190,9 +300,9 @@ x5
 Desktop Introduzido
 https://terraria.fandom.com/wiki/Shadow_Scale
 
--Shark Fin = ?
-
-
+-Shark Fin / BarbatanaDeTubarão = Dropa de Tubarão no BiomaOceano, é usado para criar itens
+1.0.5 Introduzido
+https://terraria.fandom.com/wiki/Shark_Fin
 -Silk = ?
 
 
@@ -224,6 +334,19 @@ https://terraria.fandom.com/wiki/Stinger
 
 -Teleportation Potion :
 1.2.4 Introduzido
+
+-Terrarium / Terrário = Usado para fazer Gaiolas para Bichos, precisa ser criado.
+Vidro x16 na Fornalha = Terrário
+1.2.3 Introduzido
+https://terraria.fandom.com/wiki/Terrarium
+
+-Torches / Tochas =
+
+Desktop Introduzido
+1.0.1 Tochas podem ser colocadas encima de plataforma de madeira
+1.0.5 Tochas caídas não emitem mais luz debaixo de água 
+
+https://terraria.fandom.com/wiki/Torches#Jungle_Torch
 
 -Tissue Sample = 
 1.2 Introduzido
@@ -259,8 +382,29 @@ https://terraria.fandom.com/wiki/Void_Vault
 
 >>>> W
 
+-Wandering Eye / Olho Errante = Inimigo do Modo Difícil
+
+1.1. Introduzido
+1.3.0.1 Sprite atualizado e agora dropa Lente, Lente Preta e Estandarte de Olho Demoníaco
+https://terraria.fandom.com/wiki/Wandering_Eye
+
 -Waterleaf = ?
 
+-Water Walking Potion / Poção para Caminhar na Água = Permite andar sobre água, mel, lava ou brilho
+ÁguaEngarrafada + FolhaDágua + BarbatanaDeTubarão na GarrafaEncimaDaMesa = Poção para Caminhar na Água
+1.0.5 Introduzido
+https://terraria.fandom.com/wiki/Water_Walking_Potion
+
+-Weapon Rack / Rack de Armas = Precisa ser colocado na parede de fundo, precisa ser criado
+Qualquer Madeira x10 na Serraria = Rack de Armas
+1.2.4 Introduzido
+https://terraria.fandom.com/wiki/Weapon_Rack
+
+-Wood / Madeira = Usada para criar vários itens, se coleta derrubando árvore 
+Desktop Introduzido
+1.2 Limite aumentou de 250 para 999
+Adicionou vários tipos de madeira : Rich Mahogany, Ebonwood, Shadewood e Pearlwood
+https://terraria.fandom.com/wiki/Woods
 
 -Wooden Crate :
 1.2.4 Introduzido
