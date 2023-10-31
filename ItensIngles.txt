@@ -234,11 +234,16 @@ Desktop Introduzido
 1.0.6 Consumo agora ativa o debuff Poção Doença por 1minuto e a saúde diminuiu de 100 para 50
 https://terraria.fandom.com/wiki/Lesser_Healing_Potion?so=search
 
--Lesser Mana Potion = Parei aqui !!!!
+-Lesser Mana Potion / Poção Menor de Mana = Restaura 50 de mana, serve pra criar poção melhor 
+Poção Menor x2 + Cogumelo Brilhante na GarrafaEncimaDaMesa = Poção de Mana ( cura 100 )
+Desktop Introduzido
+1.0.6.1 Restauração de Mana caiu de 100 pra 50
+1.1 Limite caiu de 30 pra 20
+https://terraria.fandom.com/wiki/Lesser_Mana_Potion
+
+-Life Crystal : Parei aqui
 Desktop Introduzido
 
--Life Crystal :
-Desktop Introduzido
 -Life Fruit  :
 1.2 Introduzido
 
@@ -246,6 +251,7 @@ Desktop Introduzido
 
 -Mana Crystal :
 Desktop Introduzido
+
 -Mana Potion = 
 Desktop Introduzido
 
@@ -259,6 +265,7 @@ https://terraria.fandom.com/wiki/Mechanical_Eye
 https://terraria.fandom.com/wiki/Minecarts#Minecart
 
 -Moonglow = ?
+
 
 -Mushroom = ?
 Desktop Introduzido
@@ -360,13 +367,16 @@ https://terraria.fandom.com/wiki/Vertebra
 
 -Vicious Mushroom :
 Desktop 1.3.0.1 Introduzido
+
 -Vile Mushroom : OK
 Desktop Introduzido
 5x Vile Mushroom na MesaDeAlquimia / GarrafaEncimaDaMesa = Vile Powder
+
 -Vile Powder :
 Desktop Introduzido
 Vile Mushroom na GarrafaEncimaDaMesa / MesaDeAlquimia = Vile Powder x5
 Remove o Hallow
+
 -Vine = ?
 
 -Vital Crystal :

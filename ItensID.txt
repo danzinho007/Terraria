@@ -31,7 +31,8 @@ IDs per release
 ID list
 ID	Name	Internal Name
 
-1 - 234: Official release items[1]
+1 - 234: Official release items :
+
 1	Picareta de Ferro	IronPickaxe
 2	Bloco de Terra	DirtBlock
 3DS = OK
@@ -44,6 +45,7 @@ PC =
 7	Martelo de Ferro	IronHammer
 8	Tocha	Torch
 9	Madeira	Wood
+
 10	Machado de Ferro	IronAxe
 11	Minério de Ferro	IronOre
 12	Minério de Cobre	CopperOre
@@ -690,6 +692,7 @@ PC =
 557	Caveira Mecânica	MechanicalSkull
 558	Capacete Consagrado	HallowedHeadgear
 559	Máscara Consagrada	HallowedMask
+
 560	Coroa de Geleia	SlimeCrown
 561	Disco de Luz	LightDisc
 562	Caixinha de Música (Dia no Mundo Superior)	MusicBoxOverworldDay
@@ -700,6 +703,7 @@ PC =
 567	Caixinha de Música (Chefe 1)	MusicBoxBoss1
 568	Caixinha de Música (Selva)	MusicBoxJungle
 569	Caixinha de Música (Corrupção)	MusicBoxCorruption
+
 570	Caixinha de Música (Corrupção no Submundo)	MusicBoxUndergroundCorruption
 571	Caixinha de Música (O Sagrado)	MusicBoxTheHallow
 572	Caixinha de Música (Chefe 2)	MusicBoxBoss2
@@ -710,6 +714,7 @@ PC =
 577	Tijolo de Demonita	DemoniteBrick
 578	Repetidora Consagrada	HallowedRepeater
 579	Drax	Drax
+
 580	Explosivos	Explosives
 581	Bomba de Entrada	InletPump
 582	Bomba de Saída	OutletPump
@@ -720,6 +725,7 @@ PC =
 587	Parede de Doce	CandyCaneWall
 588	Chapéu de Papai Noel	SantaHat
 589	Camiseta de Papai Noel	SantaShirt
+
 590	Calça de Papai Noel	SantaPants
 591	Bloco de Doce Verde	GreenCandyCaneBlock
 592	Parede de Doce Verde	GreenCandyCaneWall
@@ -756,6 +762,7 @@ Casa dos 600 :
 617	Parede de Estuque Verde	GreenStuccoWall
 618	Parede de Estuque Cinza	GrayStuccoWall
 619	Madeira de Ébano	Ebonwood
+
 620	Mogno	RichMahogany
 621	Madeira Pérola	Pearlwood
 622	Parede de Madeira de Ébano	EbonwoodWall
@@ -766,6 +773,7 @@ Casa dos 600 :
 627	Baú de Madeira Pérola	PearlwoodChest
 628	Cadeira de Madeira de Ébano	EbonwoodChair
 629	Cadeira de Mogno	RichMahoganyChair
+
 630	Cadeira de Madeira Pérola	PearlwoodChair
 631	Plataforma de Madeira de Ébano	EbonwoodPlatform
 632	Plataforma de Mogno	RichMahoganyPlatform
@@ -788,6 +796,7 @@ Casa dos 600 :
 647	Cômoda de Madeira de Ébano	EbonwoodDresser
 648	Cômoda de Mogno	RichMahoganyDresser
 649	Cômoda de Madeira Pérola	PearlwoodDresser
+
 650	Porta de Madeira de Ébano	EbonwoodDoor
 651	Porta de Mogno	RichMahoganyDoor
 652	Porta de Madeira Pérola	PearlwoodDoor
@@ -798,6 +807,7 @@ Casa dos 600 :
 657	Martelo de Mogno	RichMahoganyHammer
 658	Arco de Mogno	RichMahoganyBow
 659	Espada de Madeira Pérola	PearlwoodSword
+
 660	Martelo de Madeira Pérola	PearlwoodHammer
 661	Arco de Madeira Pérola	PearlwoodBow
 662	Tijolo de Arco-íris	RainbowBrick
@@ -808,6 +818,7 @@ Casa dos 600 :
 667	Peitoral de Redigit	RedsBreastplate
 668	Calças de Redigit	RedsLeggings
 669	Peixes	Fish
+
 670	Bumerangue de Gelo	IceBoomerang
 671	Keybrand	Keybrand
 672	Cutlass	Cutlass
@@ -818,6 +829,7 @@ Casa dos 600 :
 677	Mesa de Madeira Boreal	BorealWoodTable
 678	Poção Vermelha	RedPotion
 679	Espingarda Tática	TacticalShotgun
+
 680	Baú de Hera	IvyChest
 681	Baú de Gelo	IceChest
 682	Tutano	Marrow
