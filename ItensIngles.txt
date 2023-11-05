@@ -241,8 +241,9 @@ Desktop Introduzido
 1.1 Limite caiu de 30 pra 20
 https://terraria.fandom.com/wiki/Lesser_Mana_Potion
 
--Life Crystal : Parei aqui
+-Life Crystal : Aumenta a vida máxima em 20 ( Máximo 200 ), pode ser achado em qualquer lugar
 Desktop Introduzido
+
 
 -Life Fruit  :
 1.2 Introduzido
