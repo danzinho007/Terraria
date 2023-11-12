@@ -243,10 +243,11 @@ https://terraria.fandom.com/wiki/Lesser_Mana_Potion
 
 -Life Crystal : Aumenta a vida máxima em 20 ( Máximo 200 ), pode ser achado em qualquer lugar
 Desktop Introduzido
+https://terraria.fandom.com/wiki/Life_Crystal
 
-
--Life Fruit  :
+-Life Fruit  : Cresce na grama da selva abaixo da superfície no Modo Difícil após pelos menos 1 dos chefes mecânicos ser derrotado, cada vez que é usado o usuário ganha 5 de vida ( Totalizando 500 )
 1.2 Introduzido
+https://terraria.fandom.com/wiki/Life_Fruit
 
 >>>> M
 
