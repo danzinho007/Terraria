@@ -1,0 +1,30 @@
+
+
+Mechanisms / Mecanismos = 
+
+1.2 Novas armadilhas : Chamas, Super Dardos, Lança e Bola Espinhosa
+Novos itens : Atuadores, teletransportadores, Fontes de Água, Mina Terrestre, Máquina de Bolhas, Foguete de Fogos de Artifício, Fonte de Fogos de Artifício, Canhão e Canhão de Coelo
+Diferentes cores de Placa de Pressão
+
+1.1 Introduzido
+https://terraria.fandom.com/wiki/Mechanisms
+
+Pressure Plate = 
+
+https://terraria.fandom.com/wiki/Pressure_Plates
+
+Timer / Temporizadores :
+
+https://terraria.fandom.com/wiki/Timers
+
+Wire / Arame = Item para conectar mecanismos ( Placa de Pressão, Temporizador, Interruptor ou Alavanca ) 
+Os fios são colocados usando Chaves e recuperados usando o Cortador de Fios
+
+1.2 Limite aumentado de 250 para 999
+    Comprimento aumentou de 1000 para 2000
+    Diferentes cores de fio
+1.1 Introduzido
+https://terraria.fandom.com/wiki/Wire
+
+Wiring / Fiação 
+https://terraria.fandom.com/wiki/Guide:Wiring
