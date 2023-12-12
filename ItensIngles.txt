@@ -2,6 +2,16 @@ Itens em Inglês :
 
 >>>> A
 
+-Adamantite Sword = Arma do Modo Difícil, precisa ser criada
+
+1.1 Introduzido
+https://terraria.fandom.com/wiki/Adamantite_Sword
+
+-Aglet = Acessório que da : Velocidade de movimento aumentada em 5%
+
+1.0.5 Introduzido
+https://terraria.fandom.com/wiki/Aglet
+
 -Alchemy Table = ?
 1.3.0.1 Introduzido
 
@@ -11,6 +21,11 @@ Desktop Introduzido Demoníaco
 1.2 AltarCarmesim
 https://terraria.fandom.com/wiki/Altars
 
+-Anklet of the Wind / Tornozeleira do Vento = Acessório : Velocidade de movimento aumentada em 10%
+
+Desktop Introduzido
+https://terraria.fandom.com/wiki/Anklet_of_the_Wind
+
 -Archery Potion / Poção de Arco = Concede buff, precisa ser fabricado
 GarrafaÁgua + DayBloon + Lens na GarrafaEncimaDaMesa = Poção de Arco
 1.0.5 Introduzido
@@ -18,6 +33,11 @@ GarrafaÁgua + DayBloon + Lens na GarrafaEncimaDaMesa = Poção de Arco
 https://terraria.fandom.com/wiki/Archery_Potion
 
 >>>> B
+
+-Band of Regeneration = Acessório : Regenera lentamente a vida
+
+Desktop Introduzido
+https://terraria.fandom.com/wiki/Band_of_Regeneration?so=search
 
 -Black Lens = Usado para criar vários itens, dropado por Olho Demoníaco
 x2 na Bancada = Óculos de Sol
@@ -66,6 +86,22 @@ Qualquer Barra de Ferro na Bigorna de Ferro / Chumbo = Corrente x15
 Desktop Introduzido
 https://terraria.fandom.com/wiki/Chain?so=search
 
+-Charm of Myths = Acessório : Fornece regeneração de vida e reduz o tempo de espera de poções de cura em 25%.
+
+1.2 Introduzido
+https://terraria.fandom.com/wiki/Charm_of_Myths
+
+-Chlorophyte Bar = 
+
+1.2 Introduzido
+https://terraria.fandom.com/wiki/Chlorophyte_Bar
+
+-Cobalt Sword = Espada do Modo Difícil, precisa ser criada :
+Barra de Cobalto x8 na Bigorna de Ferro / Chumbo
+
+1.1 Introduzido
+https://terraria.fandom.com/wiki/Cobalt_Sword
+
 -Cooking Pots / Panela = Transformar vários itens em alimentos, precisa ser criada
 Qualquer barra de ferro x10 + Qualquer Madeira x2 na Bigorna de Ferro / Chumbo = Panela
 1.0.6 Introduzido com Tigela de Sopa 
@@ -108,6 +144,15 @@ Desktop Introduzido
 1.0.3 Agora dropa Lente Preta
 1.2 Novas Variantes
 https://terraria.fandom.com/wiki/Demon_Eye
+
+
+>>>> E 
+
+Excalibur = Espada do Modo Difícil
+Barra Sagrada x12 na Bigorna de Mythrill / Oricalco 
+
+1.1 Introduzido
+https://terraria.fandom.com/wiki/Excalibur
 
 >>>> F
 
@@ -205,6 +250,11 @@ https://terraria.fandom.com/wiki/Hunter_Potion
 
 >>>> I 
 
+-Illegal Gun Parts = Comprar no Negociante de Armas a noite.
+
+1.0.5 Introduzido
+https://terraria.fandom.com/wiki/Illegal_Gun_Parts
+
 -Item Frame / Quadro de itens = Precisa ser colocado numa parede de fundo, precisa ser criado
 Qualquer Madeira x6 na Serraria = Quadro de itens
 1.3.0.1 Introduzido
@@ -249,6 +299,12 @@ https://terraria.fandom.com/wiki/Life_Crystal
 1.2 Introduzido
 https://terraria.fandom.com/wiki/Life_Fruit
 
+-Lightning Boot = Acessório : Permite vôo, corrida super rápida 
+Velocidade de movimento aumentada em 8%
+
+https://terraria.fandom.com/wiki/Lightning_Boots
+1.2 Introduzido
+
 >>>> M
 
 -Mana Crystal :
@@ -257,14 +313,40 @@ Desktop Introduzido
 -Mana Potion = 
 Desktop Introduzido
 
+-Mana Regeneration Band = Acessório : Aumenta o mana máximo em 20 
+Aumenta a taxa de regeneração de mana
+
+1.2 Introduzido
+https://terraria.fandom.com/wiki/Mana_Regeneration_Band
+
 -Mechanical Eye / Olho Mecânico = Chefe do Modo Difícil
 1.1 Introduzido
 1.2 Receita alterada
 https://terraria.fandom.com/wiki/Mechanical_Eye
 
+-Megashark = 
+
+1.1 Introduzido
+https://terraria.fandom.com/wiki/Megashark
+
 -Minecart / Carrinho de Mina = Permite correr em trilhas do Minecart
 1.2.4 Introduzido
 https://terraria.fandom.com/wiki/Minecarts#Minecart
+
+-Minecart Track =
+
+1.2.4 Introduzido
+https://terraria.fandom.com/wiki/Minecart_Track
+
+-Minishark = 
+
+Desktop Introduzido
+https://terraria.fandom.com/wiki/Minishark
+
+-Modifiers / Modificadores = 
+
+1.1. Introduzido
+https://terraria.fandom.com/wiki/Modifiers
 
 -Moonglow = ?
 
@@ -272,6 +354,12 @@ https://terraria.fandom.com/wiki/Minecarts#Minecart
 -Mushroom = ?
 Desktop Introduzido
 + Goldfish no Caldeirão = BowOfSoup
+
+-Mythrill Sword = Espada do Modo Difícil, precisa ser criada :
+Barra de Mythrill x8 na Bigorna de Mythrill / Oricalco
+
+1.1 Introduzido
+https://terraria.fandom.com/wiki/Mythril_Sword
 
 >>>> N 
 
@@ -326,6 +414,11 @@ https://terraria.fandom.com/wiki/Slime_Crown
 -Star :
 Desktop Introduzido
 
+-Soul of Might = É um material que Dropa do Destroyer ( Boss Mecânico do Modo Difícil )
+
+1.1 Introduzido
+https://terraria.fandom.com/wiki/Soul_of_Might
+
 -Staff of Regrowth = Achado em Baús
 Desktop Introduzido
 https://terraria.fandom.com/wiki/Staff_of_Regrowth
@@ -360,6 +453,11 @@ https://terraria.fandom.com/wiki/Torches#Jungle_Torch
 -Tissue Sample = 
 1.2 Introduzido
 https://terraria.fandom.com/wiki/Tissue_Sample
+
+-True Excalibur =
+
+1.2 Introduzido
+https://terraria.fandom.com/wiki/True_Excalibur
 
 >>>> V
 
