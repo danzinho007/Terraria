@@ -5658,15 +5658,3 @@ Footnotes
  3705 and 3706 are unused placeholders for Trapped Chests.
  Except for phasesabers, introduced in 1.1.
 Categorias: Data IDsItems
-
-
-
-
-Os cookies ajudam-nos a fornecer os nossos serviços. Ao navegar no sítio, está a consentir o uso de cookies.
-Esta página foi editada pela última vez às 17h04min de 2 de janeiro de 2022.
-Pages that were created prior to March 2022 are from the Fandom Terraria wiki.
-Page content is under the Creative Commons Attribution-Non-Commercial-ShareAlike 3.0 License unless otherwise noted.
-Powered by MediaWiki
-A wiki.gg Community
-Wiki.gg footer logo
-Terms of Service | Privacy Policy

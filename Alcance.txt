@@ -1,4 +1,4 @@
-
+Terraria_ArmasDeAlcance:
 
 Adamantite Repeater / Repetidor de Adamantita =
 Dano = ?
